@@ -1,3 +1,4 @@
+import utils.session
 from decimal import Decimal
 
 from loguru import logger
